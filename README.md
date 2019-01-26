@@ -29,7 +29,9 @@ LeetCode problems solutions.
 TODO: # Waiting to upload<br>
 
 ## Database (MySQL)
-TODO: # Waiting to upload<br>
 - 175 Combine Two Tables<br>
 - 176 Second Highest Salary<br>
 - 177 Nth Highest Salary<br>
+
+TODO: # Waiting to upload<br>
+

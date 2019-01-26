@@ -7,6 +7,7 @@ TODO: # Waiting to upload<br>
 - 001 Two Sum<br>
 - 002 Add Two Numbers<br>
 - 007 Reverse Integer<br>
+- 067 Add Binary<br>
 - 146 LRU Cache<br>
 - 159 Longest Substring with At Most Two Distinct Characters<br>
 - 200 Number of Islands<br>

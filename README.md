@@ -1,4 +1,3 @@
-
 # LeetCode
 LeetCode problems solutions.
 
@@ -16,18 +15,18 @@ LeetCode problems solutions.
 - 399 Evaluate Division<br>
 - 482 License Key Formatting<br>
 - 543 Diameter of Binary Tree<br>
-
-TODO: # Waiting to upload<br>
 - 681 Next Closest Time<br>
 - 683 K Empty Slots<br>
 - 684 Redundant Connection<br>
 - 819 Most Common Word<br>
 - 843 Guess the Word<br>
 - 844 Backspace String Compare<br>
-- 857 Minimum Cost to Hire K Workers<br>
-- 904 Fruit Into Baskets<br>
+- 857 Minimum Cost to Hire K Workers (24ms)<br>
+- 904 Fruit Into Baskets (80ms)<br>
 - 929 Unique Email Addresses<br>
 - 947 Most Stones Removed with Same Row or Column<br>
+
+TODO: # Waiting to upload<br>
 
 ## Database (MySQL)
 TODO: # Waiting to upload<br>

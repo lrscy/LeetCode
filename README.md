@@ -25,6 +25,10 @@ LeetCode problems solutions.
 - 904 Fruit Into Baskets (80ms)<br>
 - 929 Unique Email Addresses<br>
 - 947 Most Stones Removed with Same Row or Column<br>
+- 981 Time Based Key-Value Store<br>
+- 982 Triples with Bitwise AND Equal To Zero<br>
+- 983 Minimum Cost For Tickets<br>
+- 984 String Without AAA or BBB<br>
 
 TODO: # Waiting to upload<br>
 

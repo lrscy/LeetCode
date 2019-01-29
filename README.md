@@ -31,6 +31,8 @@ LeetCode problems solutions.
 - 984 String Without AAA or BBB<br>
 
 TODO: # Waiting to upload<br>
+- 121 Best Time to Buy and Sell Stock<br>
+- 973 K Closest Points to Origin<br>
 
 ## Database (MySQL)
 - 175 Combine Two Tables<br>

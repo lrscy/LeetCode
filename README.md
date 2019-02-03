@@ -36,6 +36,10 @@ TODO: # Waiting to upload<br>
 - 437 Path Sum III
 - 680 Valid Palindrome II
 - 973 K Closest Points to Origin<br>
+- 985 Sum of Even Numbers After Queries<br>
+- 986 Interval List Intersections<br>
+- 987 Vertical Order Traversal of a Binary Tree<br>
+- 988 Smallest String Starting From Leaf
 
 ## Database (MySQL)
 - 175 Combine Two Tables<br>
